@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Speed</string>
+    <string name="travel_with_speed">Travel with speed</string>
+    <string name="book_now">Book now</string>
+    <string name="icon">icon</string>
+    <string name="start_a_new_journey">Start a new Journey</string>
+    <string name="bus">Bus</string>
+    <string name="rent_car">Rent car</string>
+    <string name="customer_care">Customer care</string>
+    <string name="ticket_booking">Ticket booking</string>
+    <string name="car">car</string>
+    <string name="support">support</string>
+    <string name="booking">booking</string>
+    <string name="rent_bus">Rent Bus</string>
+    <string name="empty">empty</string>
+    <string name="navigation_drawer_open">open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+    <string name="page_under_construction">page under construction</string>
+    <string name="forgot_password" />
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+
+    <string name="rewrite_password">rewrite_password</string>
+
+    <string name="enter_email">enter email</string>
+    <string name="find_your_account">find your account</string>
+
+    <string name="sign_up">sign up</string>
+
+
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_number">Enter your number</string>
+    <string name="enter_password">Enter password</string>
+    <string name="todo">TODO</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="new_user_sign_up">New user ? Sign Up</string>
+    <string name="dropdown">dropdown</string>
+    <string name="pickup_location">Pickup location</string>
+    <string name="search_bus_select_your_prefer_location">Search Bus ,Select your prefer location</string>
+    <string name="drop_location">Drop location</string>
+    <string name="search_for_bus">Search for Bus</string>
+    <string name="select_date">Select Date:</string>
+    <string name="select_location_nearest_to_you">select location nearest to you</string>
+    <string name="select_drop_location">select drop location</string>
+    <string name="team_speed">-Team Speed</string>
+    <string name="if_you_have_any_bugs_to_report_and_having_any_trouble_then_please_write_us_at_chavanamogh1_gmail_com">If you have any bugs to report and having any trouble then please write us at chavanamogh1@gmail.com.</string>
+    <string name="thank_you_for_downloading_this_app_this_project_helps_users_and_travel_companies_connect">Thank you for downloading this app.This project helps users and travel companies connect .</string>
+    <string name="name">-Name</string>
+    <string name="Email">-Email ID</string>
+    <string name="number">-Number</string>
+    <string name="click_and_update">Click and Update</string>
+    <string name="Password">-Password</string>
+    <string name="travel_safe_with_speed">Travel safe with speed</string>
+    <string name="_05_00_am_dombivli_to_mumbai">05:00 Am Dombivli to Mumbai</string>
+    <string name="direct_cst_through_highway_masjid_c_s_t_ncpa">Direct CST through highway Masjid-C.S.T-NCPA</string>
+    <string name="_07_00_am_dombivli_to_mumbai">07:00 Am Dombivli to Mumbai</string>
+    <string name="select_bus">Select Bus</string>
+    <string name="ghatkopar_kurla_sion_dadar_masjid_kanjurmarg_vikroli_ghowandi_ncpa_c_s_t_airoli">Ghatkopar-Kurla-Sion-Dadar-Masjid-kanjurmarg-Vikroli-Ghowandi-NCPA-C.S.T-Airoli</string>
+    <string name="ghatkopar_kurla_sion_dadar_masjid_kanjurmarg_vikroli_ghowandi_ncpa_cst_airoli">Ghatkopar-Kurla-Sion-Dadar-Masjid-kanjurmarg-Vikroli-Ghowandi-NCPA-CST-Airoli</string>
+    <string name="_08_30_am_dombivli_to_c_s_t">08:30 Am Dombivli to C.S.T</string>
+    <string name="selected_date">Selected date</string>
+    <string name="click_to_choose_date">click to choose date</string>
+
+    <string name="payment_details">Payment Details</string>
+    <string name="you_are_paying_to_jayshree_with_the_amount_mentioned_below_for_any_problems_you_can_contact_customer_care">You are paying to Jayshree with the amount mentioned below.For any problems you can contact customer care.</string>
+    <string name="_5">5</string>
+    <string name="namee">Name</string>
+    <string name="uday_chavan">user</string>
+    <string name="upi_id">UPI ID</string>
+    <string name="note">Note</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="details">Details:</string>
+    <string name="_1_click_on_paynow_and_select_the_payment_method">1)Click on Paynow and select the payment method.</string>
+    <string name="_2_Proceed_the_payment_through_selected_payment_method_after_successful_payment_you_will_be_provided_with_e_ticket">2)Proceed the payment through selected payment method. After successful payment you will be provided with E-ticket</string>
+    <string name="amount">Amount</string>
+    <string name="book_ticket_from_dombivli_to_mumbai_7am">Book ticket from dombivli to mumbai, 7Am</string>
+    <string name="UPI">userupi@okabc</string>
+
+    <string name="_1">1</string>
+    <string name="team_jayshree">-Team Jayshree</string>
+    <string name="copyright_169_2020_amogh_chavan">Copyright © 2020 </string>
+    <string name="designed_and_developed_by_amogh_chavan">Designed and Developed by Amogh Chavan</string>
+    <string name="all_rights_reserved">All rights reserved</string>
+    <string name="book_ticket">Book Ticket</string>
+    <string name="travel_with_jayshree">Travel with Jayshree</string>
+    <string name="www_jayshree_com">www.jayshree.com</string>
+    <string name="co_de">CO\n DE</string>
+    <string name="verification">Verification</string>
+
+
+</resources>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SelectedBus"
+    android:orientation="vertical"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@color/colorPrimary"
+        >
+
+        <ImageView
+            android:id="@+id/bus"
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:contentDescription="@string/todo"
+            android:paddingTop="20dp"
+            android:src="@drawable/logo"></ImageView>
+
+
+
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:layout_marginTop="-100dp"
+        >
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/bookticket"
+            android:layout_width="0dp"
+            android:layout_height="130dp"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            app:cardMaxElevation="10dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp">
+
+                <ImageView
+                    android:id="@+id/payment"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_centerHorizontal="true"
+
+                    android:contentDescription="@string/todo"
+
+                    android:src="@drawable/ic_payment"></ImageView>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="60sp"
+                    android:layout_below="@+id/payment"
+                    android:layout_marginTop="18dp"
+                    android:fontFamily="sans-serif-medium"
+                    android:text="@string/book_ticket"
+                    android:textAlignment="center"
+                    android:textColor="#000000"
+                    android:textSize="20sp"></TextView>
+
+            </RelativeLayout>
+
+
+        </com.google.android.material.card.MaterialCardView>
+
+        <com.google.android.material.card.MaterialCardView
+           android:layout_margin="10dp"
+            android:layout_width="0dp"
+            android:layout_height="130dp"
+            android:layout_weight="1"
+            app:cardMaxElevation="10dp"
+            >
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp">
+
+                <ImageView
+                    android:id="@+id/seats"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_centerHorizontal="true"
+                    android:contentDescription="@string/todo"
+
+
+                    android:src="@drawable/ic_seats"></ImageView>
+
+                <TextView
+                    android:id="@+id/seattext"
+                    android:layout_width="match_parent"
+                    android:layout_height="60sp"
+                    android:layout_below="@+id/seats"
+                    android:layout_marginTop="20dp"
+                    android:fontFamily="sans-serif-medium"
+                    android:textAlignment="center"
+                    android:textColor="#000000"
+                    android:textSize="20sp"></TextView>
+
+            </RelativeLayout>
+
+
+        </com.google.android.material.card.MaterialCardView>
+
+
+
+    </LinearLayout>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="vertical"
+        >
+
+        <TextView
+
+            android:id="@+id/txt1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+
+            android:fontFamily="sans-serif-condensed-light"
+
+            android:textColor="#000000"
+            android:textSize="18sp"></TextView>
+
+        <TextView
+            android:id="@+id/txt2"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+
+            android:fontFamily="sans-serif-condensed-light"
+
+            android:textColor="#000000"
+            android:textSize="18sp"></TextView>
+
+        <TextView
+            android:id="@+id/txt3"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+
+            android:fontFamily="sans-serif-condensed-light"
+
+            android:textColor="#000000"
+            android:textSize="18sp"></TextView>
+
+        <TextView
+            android:id="@+id/txt4"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+
+            android:fontFamily="sans-serif-condensed-light"
+
+            android:textColor="#000000"
+            android:textSize="18sp"></TextView>
+
+        <TextView
+            android:id="@+id/txt7"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+
+            android:fontFamily="sans-serif-condensed-light"
+
+            android:textColor="#000000"
+            android:textSize="18sp"></TextView>
+
+        <TextView
+            android:id="@+id/txt8"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+
+            android:fontFamily="sans-serif-condensed-light"
+
+            android:textColor="#000000"
+            android:textSize="18sp"></TextView>
+
+        <TextView
+            android:id="@+id/txt9"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:autoLink="web"
+
+            android:fontFamily="sans-serif-condensed-light"
+
+            android:textColor="#000000"
+            android:textSize="18sp"></TextView>
+
+        <TextView
+            android:id="@+id/txt5"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+
+            android:fontFamily="sans-serif-condensed-light"
+
+            android:textColor="#000000"
+            android:textSize="18sp"></TextView>
+
+        <TextView
+            android:id="@+id/txt6"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:fontFamily="sans-serif-condensed-light"
+
+            android:paddingTop="10dp"
+
+            android:textColor="#000000"
+            android:textSize="18sp"></TextView>
+
+    </LinearLayout>
+
+</ScrollView>
+</LinearLayout>
