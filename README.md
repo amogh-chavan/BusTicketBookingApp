@@ -63,7 +63,7 @@ Images are from Jayshree Bus Ticket Booking App
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
 * Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
-* A little knowledge of Dart and Flutter
+* A little knowledge of programming 
 * A brain to think 🤓
 
 ## 🤓 Author
